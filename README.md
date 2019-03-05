@@ -1,2 +1,2 @@
 # fortest
-it is only a test proj, for tmp files only
+it is just a test project, for tmp files only
